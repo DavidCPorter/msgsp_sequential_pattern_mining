@@ -1,0 +1,4 @@
+<{d,e,g,h,i,j,k}{c}>
+<{f,i,j}{e,g,h,i,j,k}{e,g,h,k}{c,g,h,i,j,k}>
+<{c}{d,i}{j,k}{j,k}{e,g,i}>
+<{g,i}>
