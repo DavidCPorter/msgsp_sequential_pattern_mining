@@ -1,0 +1,30 @@
+The number of length 1 sequential patterns is 4
+Pattern: <{e}> count:3
+Pattern: <{j}> count:3
+Pattern: <{i}> count:4
+Pattern: <{g}> count:4
+The number of length 2 sequential patterns is 15
+Pattern: <{e}{c}> count:3
+Pattern: <{j}{e}> count:3
+Pattern: <{j}{j}> count:3
+Pattern: <{j}{i}> count:4
+Pattern: <{j}{c}> count:3
+Pattern: <{j}{k}> count:3
+Pattern: <{j}{g}> count:4
+Pattern: <{ej}> count:2
+Pattern: <{ei}> count:3
+Pattern: <{ek}> count:2
+Pattern: <{eg}> count:3
+Pattern: <{ji}> count:2
+Pattern: <{jk}> count:3
+Pattern: <{jg}> count:2
+Pattern: <{ig}> count:3
+The number of length 3 sequential patterns is 13
+Pattern: <{j}{ej}> count:2
+Pattern: <{j}{ei}> count:3
+Pattern: <{j}{ek}> count:2
+Pattern: <{j}{eg}> count:3
+Pattern: <{j}{ji}> count:2
+Pattern: <{j}{jk}> count:3
+Pattern: <{j}{jg}> count:2
+Pattern: <{j}{ig}> count:3
