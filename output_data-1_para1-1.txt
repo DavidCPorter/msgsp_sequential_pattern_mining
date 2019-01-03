@@ -1,29 +1,29 @@
 The number of length 1 sequential patterns is 8
-Pattern: <{80}> count:23
 Pattern: <{70}> count:24
-Pattern: <{90}> count:20
-Pattern: <{20}> count:26
+Pattern: <{80}> count:23
 Pattern: <{30}> count:23
-Pattern: <{50}> count:23
+Pattern: <{20}> count:26
+Pattern: <{90}> count:20
 Pattern: <{10}> count:25
 Pattern: <{40}> count:25
+Pattern: <{50}> count:23
 The number of length 2 sequential patterns is 14
-Pattern: <{80}{70}> count:24
-Pattern: <{70,80}> count:21
 Pattern: <{70}{70}> count:24
-Pattern: <{20}{80}> count:23
-Pattern: <{20}{70}> count:24
-Pattern: <{20,30}> count:20
-Pattern: <{30}{80}> count:23
+Pattern: <{70,80}> count:21
+Pattern: <{80}{70}> count:24
 Pattern: <{30}{70}> count:24
 Pattern: <{30,70}> count:19
+Pattern: <{30}{80}> count:23
 Pattern: <{30}{30}> count:23
-Pattern: <{50}{90}> count:20
+Pattern: <{20}{70}> count:24
+Pattern: <{20}{80}> count:23
+Pattern: <{20,30}> count:20
 Pattern: <{10}{90}> count:20
 Pattern: <{10,40}> count:22
 Pattern: <{40}{90}> count:20
+Pattern: <{50}{90}> count:20
 The number of length 3 sequential patterns is 3
-Pattern: <{20}{70,80}> count:21
 Pattern: <{30}{70,80}> count:21
 Pattern: <{30}{30,70}> count:19
+Pattern: <{20}{70,80}> count:21
 The number of length 4 sequential patterns is 0

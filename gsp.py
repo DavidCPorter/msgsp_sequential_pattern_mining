@@ -381,6 +381,7 @@ def countContained3(c, scount):
                 # #print(S[scount][j+i])
                 if c[2] in S[scount][j+i+1]:
                     return 1 + countContained3(c, scount)
+
     return 0 + countContained3(c, scount)
 
 def countContained2(c, scount):
